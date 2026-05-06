@@ -346,9 +346,44 @@ GET /api/v1/projects/01/versions
 
 ### Уровень 1
 
-<img width="662" height="610" alt="С4 Уровень 1" src="https://github.com/user-attachments/assets/8b0c5438-217c-4bc9-b296-bd21ba5de0e8" />
+<img width="641" height="617" alt="изображение" src="https://github.com/user-attachments/assets/80661107-407c-4f34-b632-4c623a3df7f9" />
 
 ### Уровень 2
 
-<img width="727" height="797" alt="С4 Уровень 2" src="https://github.com/user-attachments/assets/17f30e2d-a55a-43c2-b56e-256a529521b5" />
+<img width="722" height="808" alt="изображение" src="https://github.com/user-attachments/assets/bb38640f-1fe0-455a-82a5-8e032e67568e" />
+
+# Стек технологий
+
+### Frontend
+
+- React - высокая производительность, ускоряет разработку MVP
+- Three.js - библиотека для рендеринга 3D-графики в браузере
+
+### Backend
+
+- Python + FastAPI - скорость разработки, интеграция с AI, асинхронность
+
+### БД
+
+- PostgreSQL - реляционная БД для сложных связей, надежность
+
+### Облачный сервис
+
+- Yandex Cloud - хранение объемных файлов, безопасность
+
+### Оплата
+
+- ЮКасса - эскроу
+
+### AI Модель
+
+- Google MediaPipe - открытый исходный код, создан для работы с 3D-моделями, локальный запуск
+
+### Почтовый сервис
+
+- Yandex 360 - подходит для бизнеса
+
+### Шлюз
+
+- Nginx - балансировка, безопасность
 
